@@ -19,7 +19,21 @@ Este é um modelo de página inicial simples e bonita, projetado para ajudar voc
 
 ## ⚙️ Funcionalidades
 
-mostrar como funciona a utilização do Bootstrap
+- Instruções de Instalação: Forneça instruções claras sobre como instalar e configurar o projeto em um ambiente de desenvolvimento.  
+
+- Uso: Descreva como usar o projeto em detalhes.  
+
+- Configuração: Se o projeto tiver configurações específicas, explique como configurá-las.  
+
+- Contribuição: Se o projeto for de código aberto e aceitar contribuições, explique como os desenvolvedores podem contribuir.  
+
+- Licença: Declare a licença sob a qual o projeto é disponibilizado.  
+
+- Status do Projeto: Informe o estado atual do projeto, como se ele está em desenvolvimento ativo, em manutenção mínima ou arquivado.  
+
+- Contato: Forneça informações de contato para os desenvolvedores ou mantenedores do projeto, caso alguém queira entrar em contato para relatar problemas ou fazer perguntas.  
+
+- FAQ (Perguntas Frequentes): Se houver perguntas comuns dos usuários ou questões conhecidas, é útil incluir uma seção de FAQ para fornecer respostas rápidas.
 
 ### 💻 Tecnologias utilizadas
 
@@ -40,6 +54,6 @@ Bootstrap, por @mdo.
 
 ## 🙎🏽 Autores
 
-Ruan Pablo 
-Geovanna Dama 
+Ruan Pablo, 
+Geovanna Dama, 
 Leonardo Rocha
