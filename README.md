@@ -46,11 +46,11 @@ Este é um modelo de página inicial simples e bonita, projetado para ajudar voc
 - CSS  
 
 - Vs Code   
-
  
 ## 🔎 Fontes consultadas
 
-Bootstrap, por @mdo.
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Como escrever um README incrível
 
 ## 🙎🏽 Autores
 
